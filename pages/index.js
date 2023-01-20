@@ -6,19 +6,19 @@ export default function Home () {
         <a> Sample Website  </a>
       </Link>
 
-      <Link href='sample2' legacyBehavior>
-        <a> 新聞の1ページ</a> 
+      <Link href='/sample2' legacyBehavior>
+        <a> page </a>
       </Link>
 
-      <Link href='sample3' legacyBehavior>
+      <Link href='/sample3' legacyBehavior>
         <a>ブログ記事一覧 </a>
       </Link>
 
-      <Link href='sample4' legacyBehavior>
+      <Link href='/sample4' legacyBehavior>
         <a> 三段記事の一覧 </a>
       </Link>
 
-      <Link href='sample5' legacyBehavior>
+      <Link href='/sample5' legacyBehavior>
         <a> グリッドレイアウト </a>
       </Link>
 
